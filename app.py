@@ -13,7 +13,7 @@ def index():
         <title>Cloud Technologies</title>
     </head>
     <body>
-        <h1>Cloud Technologies</h1>
+        <h1>Cloud Technologies Laboratory</h1>
         <p>My first Docker application</p>
         <nav>
             <a href="/">Home</a> |
